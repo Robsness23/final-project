@@ -1,0 +1,77 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+h1 {
+  color: #118a82;
+  text-align: justify;
+}
+
+h2 {
+  color: #71a5a2e1;
+  text-align: left;
+  margin: 0 auto;
+  padding-top: 20;
+  padding-bottom: 20;
+}
+
+ul {
+  margin: 0 0 10px;
+  padding: 0;
+  font-size: 14px;
+}
+
+li {
+  list-style: none;
+}
+h4 {
+  text-align: right;
+  font-size: 18px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+.fa-cloud-meatball {
+  margin: 0 auto;
+  padding: 20;
+  font-size: 60px;
+  color: #a1cae2;
+}
+.fa-cloud-sun {
+  margin-right: 10px;
+  padding: 20;
+  font-size: 60px;
+  color: #e1e2a1;
+}
+
+.fa-cloud {
+  margin: 0 auto;
+  padding: 20;
+  font-size: 60px;
+  color: #9c9ea0;
+}
+.degrees {
+  font-size: 50px;
+  text-align: center;
+  font-weight: 400;
+  padding: auto;
+  margin: 8px;
+}
+.weather-app {
+  border: 1px solid rgb(224, 218, 218);
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 800px;
+  border-radius: 8px;
+}
+.units {
+  position: relative;
+  top: -24px;
+}
+.card-text {
+  font-size: 12px;
+}
+.card-title {
+  font-size: 14px;
+}
