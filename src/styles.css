@@ -76,6 +76,5 @@ form {
   font-size: 14px;
 }
 .open-source {
-  text-align: center;
-  margin: 0 auto;
+  display: block;
 }
