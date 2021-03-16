@@ -63,6 +63,11 @@ form {
   padding: auto;
   margin: 8px;
 }
+
+.weather-app-wrapper {
+  margin: 30px auto;
+  max-width: 800px;
+}
 .weather-app {
   border: 1px solid rgb(224, 218, 218);
   padding: 20px;
